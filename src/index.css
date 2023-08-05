@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    .container{
+        @apply max-w-6xl w-full mx-auto px-5
+    }
+
+}
+.foiz{
+    background-size: 100%;
+    background-attachment: fixed;
+}
