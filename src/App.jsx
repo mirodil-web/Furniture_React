@@ -7,6 +7,7 @@ import Spasesection from './components/Spacesection'
 import Rangesection from './components/Rangesection'
 import Mailinglistsection from './components/Mailinglistsection'
 import Footer from './components/Footer'
+import Worksection from './components/Worksection'
 
 
 
@@ -22,8 +23,10 @@ const App = () => {
       <Colektionsection />
       <Spasesection />
       <Rangesection />
+      <Worksection />
       <Mailinglistsection />
       <Footer />
+
 
       
     </div>

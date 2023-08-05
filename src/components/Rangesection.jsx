@@ -2,7 +2,7 @@ import React from 'react'
 
 const Rangesection = () => {
     return (
-        <div className='container'>
+        <div className='container border-b'>
             <section className='py-14 font-montserrat'>
                 <div className='text-center mb-12'>
                     <h2 className='text-4xl font-bold mb-5'>Browse The Range</h2>
@@ -24,6 +24,7 @@ const Rangesection = () => {
                 </div>
             </section>
         </div>
+
     )
 }
 
